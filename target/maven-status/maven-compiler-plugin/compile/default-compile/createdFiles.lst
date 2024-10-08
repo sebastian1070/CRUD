@@ -1,0 +1,5 @@
+com\mycompany\springbootrestapi\controller\UserController.class
+com\mycompany\springbootrestapi\service\UserService.class
+com\mycompany\springbootrestapi\model\User.class
+com\mycompany\springbootrestapi\repository\UserRepository.class
+com\mycompany\springbootrestapi\SpringBootRestAPI.class
